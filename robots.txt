@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://walundpas.github.io/sitemap
+Sitemap: https://walundpas.github.io/app/sitemap
+Sitemap: https://walundpas.github.io/assets/sitemap
+Sitemap: https://walundpas.github.io/css/sitemap
+Sitemap: https://walundpas.github.io/includes/sitemap
+Sitemap: https://walundpas.github.io/item/sitemap
+Sitemap: https://walundpas.github.io/src/sitemap
